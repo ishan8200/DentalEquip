@@ -3807,6 +3807,7 @@ textarea.form-control-lg {
 .navbar-text a,
 .navbar-text a:hover,
 .navbar-text a:focus {
+  font-size: 100px;
   color: var(--bs-navbar-active-color);
 }
 
